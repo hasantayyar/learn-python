@@ -7,6 +7,4 @@ If you want
 + Add extra samples 
 + Fix or comment
 
-
-
-
+I am referencing my lessons from "[Byte Of Python](http://www.swaroopch.com/files/byteofpython/byte_of_python_v192.pdf)".
