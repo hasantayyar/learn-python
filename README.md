@@ -7,4 +7,5 @@ If you want
 + Add extra samples 
 + Fix or comment
 
-I am referencing my lessons from "[Byte Of Python](http://www.swaroopch.com/files/byteofpython/byte_of_python_v192.pdf)".
+I am referencing my lessons from "[Byte Of Python](http://www.swaroopch.com/files/byteofpython/byte_of_python_v192.pdf)" and "[Learn Python The Hard Way](http://learnpythonthehardway.org/book/)".
+These two books are free.
