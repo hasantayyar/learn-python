@@ -12,3 +12,8 @@ print newlist
 food = ["cake","banana","apple"]
 a = food[2]
 print a
+
+######
+alist = ['great','awsome','still','apple','banana']
+print " ".join(alist)
+print "#".join(alist[2:5])
