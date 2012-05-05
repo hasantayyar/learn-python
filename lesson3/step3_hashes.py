@@ -22,3 +22,17 @@ if num in cities:
 else:
     print "not found"
 
+##################
+### tricky way ###
+##################
+
+def find_city(themap, plate): 
+    if plate in themap:
+        return themap[plate] 
+    else:
+        return "Not found."
+
+cities['_find'] = find_city  # cities['_find'] is a function now
+plate = "06"
+city_found = cities['_find'](cities, plate)
+print city_found
