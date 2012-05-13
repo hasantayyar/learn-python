@@ -3,16 +3,16 @@ try:
 except ImportError:
     from distutils.core import setup
 config = {
-    'description': 'My Project',
-    'author': 'My Name',
-    'url': 'URL to get it at.',
-    'download_url': 'Where to download it.',
-    'author_email': 'My email.',
+    'description': 'Learn Python',
+    'author': 'John Doe',
+    'url': 'http://python.org',
+    'download_url': 'http://www.python.org/',
+    'author_email': 'tayyar.besik@gmail.com',
     'version': '0.1',
     'install_requires': ['nose'],
     'packages': ['NAME'],
     'scripts': [],
-    'name': 'projectname'
+    'name': 'learnpython'
 }
 
 setup(**config)
